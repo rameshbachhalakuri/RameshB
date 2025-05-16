@@ -1,0 +1,39 @@
+!SESSION 2025-05-01 11:21:44.702 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=21.0.6
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-01 11:21:57.081
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-01 11:26:23.865
+!MESSAGE Logback config file: C:\Users\RAMESHBABU\OneDrive\Attachments\New folder\javaa005\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-01 11:26:29.906
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\RAMESHBABU'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2025-05-05 07:10:26.109 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=21.0.6
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  --launcher.oldUserArgsStart --launcher.oldUserArgsEnd
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 --launcher.oldUserArgsStart --launcher.oldUserArgsEnd -data C:\Users\RAMESHBABU\OneDrive\Attachments\New folder\javaa005
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-05 07:10:27.934
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-05-05 07:10:29.071
+!MESSAGE Logback config file: C:\Users\RAMESHBABU\OneDrive\Attachments\New folder\javaa005\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-05 07:10:33.147
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\RAMESHBABU'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
